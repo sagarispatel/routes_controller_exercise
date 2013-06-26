@@ -1,7 +1,7 @@
-HTTP verb used in this request:
-URL:
-Controller Name:
-Controller Action:
-View File Name:
-Layout File Name:
-Response code of the request:
+HTTP verb used in this request: GET "/users"
+URL: users/index.html
+Controller Name: UsersController
+Controller Action: #index
+View File Name: users/index.html.erb
+Layout File Name: layouts/application
+Response code of the request: 200
